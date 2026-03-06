@@ -4,7 +4,7 @@
 
 ## 在线文档
 
-[https://terancejiang.github.io/Stock_Analyze_Prompts/](https://terancejiang.github.io/Stock_Analyze_Prompts/)
+[https://blooddrunk.github.io/Stock_Analyze_Prompts/](https://blooddrunk.github.io/Stock_Analyze_Prompts/)
 
 ## 目录结构
 
