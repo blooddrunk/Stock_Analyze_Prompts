@@ -10,3 +10,6 @@
 
 ## Reports
 基于以上 Prompt 生成的个股分析报告。
+
+## Local Skills
+- [Cigbutt Static Value Skill 使用与开发文档](cigbutt_static_value_skill.md)

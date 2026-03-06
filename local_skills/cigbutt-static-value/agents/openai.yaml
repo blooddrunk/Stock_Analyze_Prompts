@@ -1,0 +1,7 @@
+interface:
+  display_name: "Cigbutt Static Value"
+  short_description: "Static-value cigar-butt stock analysis with synced prompts."
+  default_prompt: "Use $cigbutt-static-value to analyze a stock and save the full report under reports/cigbutt_reports/local/."
+
+policy:
+  allow_implicit_invocation: true
