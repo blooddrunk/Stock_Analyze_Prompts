@@ -1,0 +1,7 @@
+interface:
+  display_name: "Turtle Investment Strategy"
+  short_description: "Multi-phase turtle stock analysis with synced references."
+  default_prompt: "Use $turtle-investment-strategy to analyze a stock and save outputs under reports/turtle_reports/local/."
+
+policy:
+  allow_implicit_invocation: true

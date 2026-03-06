@@ -12,6 +12,7 @@ nav:
   - Home: index.md
   - Local Skills:
       - Cigbutt Static Value Skill: cigbutt_static_value_skill.md
+      - Turtle Investment Strategy Skill: turtle_investment_strategy_skill.md
   - 烟蒂股分析 (Cigbutt):
       - Overview: cigbutt/index.md
       - cigbutt/烟蒂股分析Prompt_v1.8.md

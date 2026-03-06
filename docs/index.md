@@ -13,3 +13,4 @@
 
 ## Local Skills
 - [Cigbutt Static Value Skill 使用与开发文档](cigbutt_static_value_skill.md)
+- [Turtle Investment Strategy Skill 使用与开发文档](turtle_investment_strategy_skill.md)
