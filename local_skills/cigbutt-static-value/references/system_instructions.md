@@ -2,7 +2,7 @@
 
 - source_file: `cigbutt/烟蒂股分析Prompt_v1.8.md`
 - source_version: `v1.8`
-- synced_at_utc: `2026-03-06T08:12:11Z`
+- synced_at_utc: `2026-03-06T15:13:31Z`
 
 # 静态价值型烟蒂股量化分析 Prompt v1.8
 
