@@ -6,6 +6,11 @@
 
 [https://blooddrunk.github.io/Stock_Analyze_Prompts/](https://blooddrunk.github.io/Stock_Analyze_Prompts/)
 
+## 文档构建
+
+- 本地构建：`make docs-build`
+- 本地预览：`make docs-serve`
+
 ## 目录结构
 
 - `cigbutt/` — 烟蒂股分析 Prompt（多版本迭代）
